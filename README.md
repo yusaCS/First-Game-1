@@ -73,7 +73,7 @@ g++ dctests.cpp logic.cpp -o dungeon_tests
 | `helper.cpp` | Display functions for map and instructions |
 | `dungeoncrawler.cpp` | Main game loop |
 | `dctests.cpp` | Unit tests for core logic functions |
-| `example1.txt` (add) | Sample dungeon level file |
+| `example1.txt` | Sample dungeon level file |
 
 ---
 
